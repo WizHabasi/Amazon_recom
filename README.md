@@ -51,4 +51,4 @@ The dataset used is the [Amazon Product Reviews dataset](https://www.kaggle.com/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/amazon-recommendation-system.git
+git clone https://github.com/WizHabasi/Amazon_recom.git
