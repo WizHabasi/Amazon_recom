@@ -26,6 +26,13 @@ The dataset used is the [Amazon Product Reviews dataset](https://www.kaggle.com/
 - Product IDs
 - Ratings
 - Timestamps
+## Project Folder Structure
+.
+├── Amazon_Recom.ipynb
+├── product_descriptions.csv
+└── ratings_Beauty.csv
+
+0 directories, 3 files
 
 ## Recommendation System Parts
 
