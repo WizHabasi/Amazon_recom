@@ -21,18 +21,20 @@ A well-developed recommendation system helps businesses improve the shopper expe
 
 ## Dataset
 
-The dataset used is the [Amazon Product Reviews dataset](https://www.kaggle.com/skillsmuggler/amazon-ratings) containing:
+The dataset used is the [Amazon Product Reviews dataset](https://www.kaggle.com/skillsmuggler/amazon-ratings), containing:
 - User IDs
 - Product IDs
 - Ratings
 - Timestamps
 ## Project Folder Structure
+```
 .
 ├── Amazon_Recom.ipynb
 ├── product_descriptions.csv
 └── ratings_Beauty.csv
 
 0 directories, 3 files
+```
 
 ## Recommendation System Parts
 
