@@ -40,7 +40,7 @@ The dataset used is the [Amazon Product Reviews dataset](https://www.kaggle.com/
 
 ### Part I: Product Popularity-Based System
 - Targets new customers
-- Recommends most popular products sold on the platform
+- Recommends the most popular products sold on the platform
 - Uses simple counting of product ratings to determine popularity
 
 **Analysis:**
