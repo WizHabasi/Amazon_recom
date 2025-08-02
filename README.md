@@ -2,26 +2,12 @@
 
 This project implements a product recommendation system for e-commerce businesses using collaborative filtering techniques. The system is designed in three parts to cater to different business contexts.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Recommendation System Parts](#recommendation-system-parts)
-  - [Part I: Popularity-Based](#part-i-product-popularity-based-system)
-  - [Part II: Model-Based Collaborative Filtering](#part-ii-model-based-collaborative-filtering)
-  - [Part III: Cold Start Problem](#part-iii-cold-start-problem)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Project Overview
 
 A well-developed recommendation system helps businesses improve the shopper experience, leading to better customer acquisition and retention. The system is designed based on the journey of a new customer from their first visit to repeat purchases....
 
 ## Dataset
 
-The dataset used is the [Amazon Product Reviews dataset](https://www.kaggle.com/skillsmuggler/amazon-ratings), containing:
 - User IDs
 - Product IDs
 - Ratings
@@ -60,4 +46,4 @@ The dataset used is the [Amazon Product Reviews dataset](https://www.kaggle.com/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/WizHabasi/Amazon_recom.git
+git clone https://github.com/WizHabasi/reco.git
