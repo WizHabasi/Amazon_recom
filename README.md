@@ -4,7 +4,7 @@ This project implements a product recommendation system for e-commerce businesse
 
 ## Project Overview
 
-A well-developed recommendation system helps businesses improve the shopper experience, leading to better customer acquisition and retention. The system is designed based on the journey of a new customer from their first visit to repeat purchases.
+A well-developed recommendation system helps businesses improve the shopper experience, leading to better customer acquisition and retention. The system is designed based on the journey of a new customer from their first visit to repeat purchases..
 
 ## Dataset
 
