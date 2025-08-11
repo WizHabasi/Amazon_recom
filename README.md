@@ -1,6 +1,6 @@
 # Amazon Product Recommendation System
 
-This project implements a product recommendation system for e-commerce businesses using collaborative filtering techniques. The system is designed in three parts to cater to different business contexts..
+This project implements a product recommendation system for e-commerce businesses using collaborative filtering techniques. The system is designed in three parts to cater to different business contexts.
 
 ## Project Overview
 
